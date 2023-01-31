@@ -1,2 +1,3 @@
 #GUÍA DE REMISIÓN REMITENTE
-![Captura](https://user-images.githubusercontent.com/56702438/205982598-321f243c-f82c-49b9-aba0-5dfc0517f697.PNG)
+
+![img-guia](https://user-images.githubusercontent.com/56702438/215892752-0e9338cc-5493-4cbe-a943-7314e549dbcd.PNG)
